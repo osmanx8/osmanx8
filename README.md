@@ -1,8 +1,12 @@
 ## Hi there 👋
-
+![Banner](https://your-image-url.com/banner.png)
+### 🛠️ Skills
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/-React-blue?logo=react&logoColor=white)
+![Solana](https://img.shields.io/badge/-Solana-3c3c3d?logo=solana)
 <!--
 **osmanx8/osmanx8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### 🛠️ Skills
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
