@@ -1,6 +1,18 @@
+## 🚀 My Achievements
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=osmanx8&theme=tokyonight&no-frame=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=0xTan1319&theme=tokyonight&no-frame=true&margin-w=15" />
 </p>
+
+### Custom Achievements
+
+<p align="center">
+  ![Blockchain Genius](https://img.shields.io/badge/Blockchain%20Genius-blue)
+  ![Frontend Maestro](https://img.shields.io/badge/Frontend%20Maestro-green)
+  ![Code Wizard](https://img.shields.io/badge/Code%20Wizard-yellow)
+</p>
+
+---
 
 <!-- Existing README Content -->
 <div align="center">
