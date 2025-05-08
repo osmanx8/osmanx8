@@ -1,5 +1,6 @@
-<!-- Animated Bubble Background -->
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=osmanx8&theme=tokyonight&no-frame=true&margin-w=15" />
+</p>
 
 <!-- Existing README Content -->
 <div align="center">
