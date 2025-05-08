@@ -4,7 +4,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=0xTan1319&theme=tokyonight&no-frame=true&margin-w=15" />
 </p>
 
-### Custom Achievements
 ---
 
 <!-- Existing README Content -->
