@@ -104,17 +104,7 @@
   <img height="150px" style="margin-right: 10px;" src="https://github-readme-streak-stats.herokuapp.com?user=0xTan1319&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=27">
 </p>
 
-<p align="center">
-  <a href="mailto:leventetan@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png" width="50" /></a>
-  &nbsp;&nbsp;
-  <a href="https://join.skype.com/invite/vt23Ov5a9zg9" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png" width="50" /></a>
-  &nbsp;&nbsp;
-  <a href="https://t.me/shiny0103" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png" width="50" /></a>
-  &nbsp;&nbsp;
-  <a href="https://discord.com/channels/@me/1310342818538983495" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/3d-fluency/94/discord-logo.png" width="50" /></a>
-  &nbsp;&nbsp;
-  <a href="https://x.com/0xTan1319" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/twitter.png" width="50"></a>
-</p>
+
 
 <div align="center">
   <img src="https://github.com/0xTan1319/0xTan1319/blob/main/divider1.png" alt="divider"/>
