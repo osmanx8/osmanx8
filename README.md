@@ -110,7 +110,7 @@
   <img src="https://github.com/0xTan1319/0xTan1319/blob/main/divider1.png" alt="divider"/>
 </div>
 
-<h2 align="center">Thanks for visiting my profile.</h2>
+<h2 align="center">Thanks for visiting my profile. My cool projects is private. If u have mind to work with me, will appreciate if DM me via TG. </h2>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
