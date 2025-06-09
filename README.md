@@ -1,69 +1,67 @@
-# 🚀 **AI Agents & Crypto Solutions Collection**
+# 🚀 AI Agents & Crypto Solutions Collection
 
-Welcome to my 2025 portfolio — a showcase of cutting-edge **AI agents**, **blockchain automation tools**, and **crypto trading bots**.
+Welcome to my 2025 collection of projects — combining **AI agents**, **DeFi tools**, **GameFi dApps**, and **crypto trading bots**.
 
-My mission?  
-To build smarter systems for DeFi, DAO governance, NFT markets, and GameFi.
-
-🌐 **Telegram**: [@oxalpha_sol](https://t.me/oxalpha_sol)
+📲 Contact: [@oxalpha_sol](https://t.me/oxalpha_sol)
 
 ---
 
-## 🎮 GameFi – Marvel Strategy Game (Web3 Powered)
+## 🎮 GameFi Project – Marvel Web3 Game
 
-<div align="center" style="position:relative; background-image: url('./packages/assets/1.png'); background-size: cover; padding: 40px; border-radius: 12px;">
-  <h2 style="background-color: rgba(255,255,255,0.7); padding: 12px; border-radius: 8px; display:inline-block;">🧠 Role-based Strategy in the Web3 World</h2>
-</div>
+| Screenshot |
+|------------|
+| ![Marvel Game Screenshot](packages/assets/1.png) |
 
-> *A multiplayer role-assignment game using Ethereum smart contracts. Choose between Assassin, Police Officer, or Citizen. Use stealth, strategy, and voting to survive.*
-
-- Built with: `Next.js`, `Hardhat`, `RainbowKit`, `Wagmi`, `Viem`, `TypeScript`
-- Fully decentralized logic where possible
-- 4 total players (3 NPCs + 1 wallet-connected user)
-- 🪙 0.1 ETH per player – Prize split among winners
-
----
-
-## 📋 **Featured AI & Crypto Bots – 2025 Launches**
-
-Here are some of the systems I've engineered this year. No public repos (yet), but available for demo or collaboration:
-
-### 🤖 **AI Agents**
-- **DeFi AI Agent** – Automates DeFi trading strategies using real-time market signals
-- **NFT Marketplace Assistant** – Recommends undervalued NFTs & trends using AI sentiment models
-- **DAO Governance Analyst** – Analyzes proposals and suggests vote directions using LLMs
-
-### 📈 **Volume & Trading Bots**
-- **Solana MultiDex Volume Bot** – Creates trading volume across Raydium, Jupiter, and Meteora
-- **Copy Trading Bot** – Clones trades from on-chain wallets with delay buffers
-- **Raydium Sniper Bot** – Snipes tokens during launches with optimized gas timing
-- **Raydium Trading Bot** – Supports buy/sell, stop-loss, and limit orders
-- **Solana Arbitrage Bot** – Jupiter v4-powered cross-pair arbitrage scanner
-
-### 🧵 **Bundlers**
-- **Raydium Bundler** – Multi-wallet launcher for new tokens on Raydium
-- **Pumpfun Bundler** – Multi-wallet bundler for stealth launches on Pump.fun
+| Feature                      | Description                                                                 |
+|-----------------------------|-----------------------------------------------------------------------------|
+| Project                     | Marvel Role-Based Game (GameFi)                                             |
+| Roles                       | Assassin, Police Officer, Citizen                                          |
+| Game Type                   | Turn-based multiplayer game (4 players)                                    |
+| Technology Stack            | Next.js, RainbowKit, Hardhat, Wagmi, Viem, TypeScript                      |
+| Blockchain Features         | Wallet connection, ETH fee to join, on-chain game logic                    |
+| Prize Pool                  | 0.4 ETH (0.1 ETH per player), split among winners                          |
+| Role Visibility             | Roles are hidden, only wallet addresses are visible                        |
+| Game Phases                 | Waiting → Night → Day → Voting → Win Check                                 |
+| Unique Mechanics            | Secret role voting, timed voting, auto-resolution on tie                   |
 
 ---
 
-## 💡 Why AI Agents in Blockchain?
+## 📋 Featured AI Agents & Bots (No Public Repo)
 
-AI brings intelligence and automation to DeFi and NFT ecosystems. With agents, you can:
+| **Category**       | **Bot Name**                      | **Function**                                                       |
+|-------------------|-----------------------------------|--------------------------------------------------------------------|
+| AI Agents          | DeFi AI Agent                     | Automates DeFi strategies using market prediction                  |
+|                   | NFT Marketplace Assistant         | Recommends NFT buys using sentiment and floor price detection     |
+|                   | DAO Governance AI Agent           | Helps DAOs analyze proposals and voting strategies                |
+| Volume Bots        | Solana MultiDex Volume Bot        | Generates trading volume on Raydium, Jupiter, Meteora             |
+| Copy Trading       | Copy Trading Bot                  | Mirrors on-chain wallet trades in real-time                       |
+| Sniper Bots        | Raydium Sniper Bot                | Targets new token launches instantly on Raydium                   |
+| Arbitrage Bots     | Solana Arbitrage Bot (Jupiter v4) | Scans for arbitrage using Jupiter routing                         |
+| Trading Bots       | Raydium Trading Bot               | Supports buy/sell, stop-loss, and limit order strategies          |
+|                   | Solana Trading Bot                | Trades across Raydium, Meteora, Orca, and Jupiter                 |
+| Bundlers           | Raydium Bundler                   | Launches multiple wallets for token launches on Raydium           |
+|                   | Pumpfun Bundler                   | Multi-wallet launcher for Pumpfun token launches                  |
 
-- 📊 Analyze thousands of tokens and wallet behaviors
-- 🤝 Automate governance, DAO operations, and funding analysis
-- 💸 Execute high-frequency DeFi strategies across multiple chains
+---
+
+## 🤖 Why AI Agents in Blockchain?
+
+| Benefit                       | Description                                                             |
+|------------------------------|-------------------------------------------------------------------------|
+| Trading Automation           | AI agents monitor markets 24/7 and execute trades based on logic        |
+| DAO Operations               | Agents can draft, analyze, and simulate DAO proposals                   |
+| Portfolio Optimization       | Real-time rebalancing and risk-aware strategy execution                 |
+| NFT Tools                    | Spot undervalued assets and auto-bid using AI models                    |
 
 ---
 
-## 🌐 Let’s Build Together
+## 📞 Connect with Me
 
-> Have an idea in AI, DeFi, or GameFi? Let’s discuss.  
-> Demos available for all listed tools.
-
-📬 **Telegram**: [@osmanx8](https://t.me/osmanx8)  
-🌐 **Contact**: DM me anytime for partnerships or custom builds
+| Platform | Link                       |
+|----------|----------------------------|
+| Telegram | [@osmanx8](https://t.me/osmanx8) |
+| Open for | Custom bots, partnerships, consulting |
 
 ---
-![Marvel Game Screenshot](packages/assets/1.png)
-> *Crafted by @osmanx8 – Engineering the next-gen AI & crypto stack*
+
+> *Made by @osmanx8 — building the future of DeFi, AI agents, and GameFi.*
