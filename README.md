@@ -1,117 +1,69 @@
+# 🚀 **AI Agents & Crypto Solutions Collection**
 
-<!--
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=0xTan1319&theme=tokyonight&no-frame=true&margin-w=15" />
-</p>
+Welcome to my 2025 portfolio — a showcase of cutting-edge **AI agents**, **blockchain automation tools**, and **crypto trading bots**.
+
+My mission?  
+To build smarter systems for DeFi, DAO governance, NFT markets, and GameFi.
+
+🌐 **Telegram**: [@oxalpha_sol](https://t.me/oxalpha_sol)
 
 ---
 
-<!-- Existing README Content -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Ismael!;Welcome+to+My+GitHub+Profile!" />
+## 🎮 GameFi – Marvel Strategy Game (Web3 Powered)
+
+<div align="center" style="position:relative; background-image: url('./packages/assets/1.png'); background-size: cover; padding: 40px; border-radius: 12px;">
+  <h2 style="background-color: rgba(255,255,255,0.7); padding: 12px; border-radius: 8px; display:inline-block;">🧠 Role-based Strategy in the Web3 World</h2>
 </div>
 
-<h2 align="center">
-  I am a Full Stack & Web3 & Smart Contract Developer.
-</h2>
+> *A multiplayer role-assignment game using Ethereum smart contracts. Choose between Assassin, Police Officer, or Citizen. Use stealth, strategy, and voting to survive.*
 
-<div align="center">
-  <img src="https://github.com/0xTan1319/0xTan1319/blob/main/divider1.png" alt="divider"/>
-</div>
+- Built with: `Next.js`, `Hardhat`, `RainbowKit`, `Wagmi`, `Viem`, `TypeScript`
+- Fully decentralized logic where possible
+- 4 total players (3 NPCs + 1 wallet-connected user)
+- 🪙 0.1 ETH per player – Prize split among winners
 
-<h3 align="center"><img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/code.gif" height="20"/> Tech & Tools</h3>
+---
 
-<!-- Tech & Tools Tables -->
-<div align="center" style="witdh:100%"> 
-  <table>
-    <tr>
-      <td valign="center" width="100px"><b>Frontend<b></td>
-      <td valign="center" width="100px"><b>Backend<b></td>
-      <td valign="center" width="100px"><b>DevOps<b></td>
-    </tr>
-    <tr>
-      <td valign="center" align="center" width="300px">
-        <img src="https://img.shields.io/badge/Angular-blue" /> 
-        <img src="https://img.shields.io/badge/Flutter-blue" /> 
-        <img src="https://img.shields.io/badge/HTML-blue" /> 
-        <img src="https://img.shields.io/badge/React-blue" /> 
-        <img src="https://img.shields.io/badge/CSS-blue" />
-        <img src="https://img.shields.io/badge/JavaScript-blue" /> 
-        <img src="https://img.shields.io/badge/TypeScript-blue" />
-        <img src="https://img.shields.io/badge/Vue-blue" /> 
-        <img src="https://img.shields.io/badge/Bootstrap-blue" /> 
-        <img src="https://img.shields.io/badge/Tailwind-blue" /> 
-        <img src="https://img.shields.io/badge/Next-blue" /> 
-        <img src="https://img.shields.io/badge/Nuxt-blue" /> 
-        <img src="https://img.shields.io/badge/Chart.js-blue" />
-      </td>      
-      <td valign="center" align="center" width="300px">
-        <img src="https://img.shields.io/badge/Django-blue" /> 
-        <img src="https://img.shields.io/badge/Python-blue" /> 
-        <img src="https://img.shields.io/badge/Selenium-blue" />        
-        <img src="https://img.shields.io/badge/Ruby-blue" /> 
-        <img src="https://img.shields.io/badge/Rails-blue" /> 
-        <img src="https://img.shields.io/badge/BeautifulSoup-blue" /> 
-        <img src="https://img.shields.io/badge/Pandas-blue" /> 
-        <img src="https://img.shields.io/badge/Numpy-blue" /> 
-        <img src="https://img.shields.io/badge/Flask-blue" /> 
-        <img src="https://img.shields.io/badge/PHP-blue" /> 
-        <img src="https://img.shields.io/badge/Laravel-blue" /> 
-        <img src="https://img.shields.io/badge/Node.js-blue" /> 
-        <img src="https://img.shields.io/badge/Express-blue" /> 
-        <img src="https://img.shields.io/badge/Nest.js-blue" /> 
-      </td>
-      <td valign="center" align="center" width="300px">
-        <img src="https://img.shields.io/badge/AWS-blue" /> 
-        <img src="https://img.shields.io/badge/CI/CD-blue" /> 
-        <img src="https://img.shields.io/badge/Docker-blue" /> 
-        <img src="https://img.shields.io/badge/TDD-blue" /> 
-        <img src="https://img.shields.io/badge/Jira-blue" /> 
-        <img src="https://img.shields.io/badge/Tezos-blue" /> 
-        <img src="https://img.shields.io/badge/MySQL-blue" /> 
-        <img src="https://img.shields.io/badge/NoSQL-blue" /> 
-        <img src="https://img.shields.io/badge/MongoDB-blue" /> 
-        <img src="https://img.shields.io/badge/PostgreSQL-blue" /> 
-      </td>
-    </tr>
-  </table>
-  
- <table>
-    <tr>
-      <td valign="center" width="100px"><b>Blockchain<b></td>
-    </tr>
-    <tr>
-      <td valign="center" align="center" width="300px">
-        <img src="https://img.shields.io/badge/Web3.js-blue" /> 
-        <img src="https://img.shields.io/badge/Solidity-blue" /> 
-        <img src="https://img.shields.io/badge/Polkadot-blue" /> 
-        <img src="https://img.shields.io/badge/Solana-blue" /> 
-        <img src="https://img.shields.io/badge/Golang-blue" /> 
-        <img src="https://img.shields.io/badge/Rust-blue" /> 
-        <img src="https://img.shields.io/badge/Smart Contract-blue" /> 
-        <img src="https://img.shields.io/badge/Bitcoin-blue" />
-      </td>
-    </tr>
-  </table>
-</div>
-<!-- ... (Your existing tech stack tables remain unchanged) ... -->
+## 📋 **Featured AI & Crypto Bots – 2025 Launches**
 
-<div align="center">
-  <img src="https://github.com/0xTan1319/0xTan1319/blob/main/divider2.png" alt="divider"/>
-</div>
+Here are some of the systems I've engineered this year. No public repos (yet), but available for demo or collaboration:
 
-<p align="center">
-  <img height="150px" style="margin-right: 10px;" src="https://github-readme-streak-stats.herokuapp.com?user=0xTan1319&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=27">
-</p>
+### 🤖 **AI Agents**
+- **DeFi AI Agent** – Automates DeFi trading strategies using real-time market signals
+- **NFT Marketplace Assistant** – Recommends undervalued NFTs & trends using AI sentiment models
+- **DAO Governance Analyst** – Analyzes proposals and suggests vote directions using LLMs
 
+### 📈 **Volume & Trading Bots**
+- **Solana MultiDex Volume Bot** – Creates trading volume across Raydium, Jupiter, and Meteora
+- **Copy Trading Bot** – Clones trades from on-chain wallets with delay buffers
+- **Raydium Sniper Bot** – Snipes tokens during launches with optimized gas timing
+- **Raydium Trading Bot** – Supports buy/sell, stop-loss, and limit orders
+- **Solana Arbitrage Bot** – Jupiter v4-powered cross-pair arbitrage scanner
 
+### 🧵 **Bundlers**
+- **Raydium Bundler** – Multi-wallet launcher for new tokens on Raydium
+- **Pumpfun Bundler** – Multi-wallet bundler for stealth launches on Pump.fun
 
-<div align="center">
-  <img src="https://github.com/0xTan1319/0xTan1319/blob/main/divider1.png" alt="divider"/>
-</div>
+---
 
-<h2 align="center">Thanks for visiting my profile. My cool projects is private. If u have mind to work with me, will appreciate if DM me via TG. </h2>
+## 💡 Why AI Agents in Blockchain?
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
-</p>
+AI brings intelligence and automation to DeFi and NFT ecosystems. With agents, you can:
+
+- 📊 Analyze thousands of tokens and wallet behaviors
+- 🤝 Automate governance, DAO operations, and funding analysis
+- 💸 Execute high-frequency DeFi strategies across multiple chains
+
+---
+
+## 🌐 Let’s Build Together
+
+> Have an idea in AI, DeFi, or GameFi? Let’s discuss.  
+> Demos available for all listed tools.
+
+📬 **Telegram**: [@osmanx8](https://t.me/osmanx8)  
+🌐 **Contact**: DM me anytime for partnerships or custom builds
+
+---
+![Marvel Game Screenshot](packages/assets/1.png)
+> *Crafted by @osmanx8 – Engineering the next-gen AI & crypto stack*
