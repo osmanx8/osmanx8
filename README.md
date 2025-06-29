@@ -1,6 +1,6 @@
 <!-- Profile Header with Gradient Style -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/46582032/187051472-2c37b6ae-2c3a-4ddc-b4c8-e8b1a3e76387.png" width="100%" alt="Gradient Banner"/>
+  <img src="https://i.imgur.com/Vz9Wj1o.png" width="100%" alt="Gradient Banner"/>
 </p>
 
 <h2 align="center">⚡ Smart Contract Wizard | Solana ✦ EVM ✦ Rust ✦ Solidity</h2>
