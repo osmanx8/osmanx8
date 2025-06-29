@@ -1,7 +1,7 @@
-<!-- Profile Header with Gradient Style -->
 <p align="center">
   <img src="https://i.imgur.com/3bX0yK1.png" width="100%" alt="Gradient Banner"/>
 </p>
+
 <h2 align="center">⚡ Smart Contract Wizard | Solana ✦ EVM ✦ Rust ✦ Solidity</h2>
 
 ---
@@ -9,15 +9,15 @@
 ### 🧠 About Me
 
 🚀 I architect secure and scalable smart contracts across **Solana** and **EVM** blockchains.  
-🔧 Proficient in **Rust**, **Solidity**, and **Anchor** framework for seamless dApp deployment.  
-📦 Mastery in writing gas-efficient, upgradeable contracts with proxy patterns.  
-🧩 Built on DeFi, NFTs, DAOs – from tokenomics to full-stack integration.  
-🌐 Hands-on with Solana's Sealevel runtime and EVM bytecode optimization.  
-🛡️ Security-first mindset with experience in audits, fuzzing, and static analysis.  
-🔍 Deep understanding of SPL and ERC standards like ERC-20, ERC-721, and ERC-1155.  
-🎯 Proven track record of delivering production-grade dApps at scale.  
-🛠️ Enthusiastic about cross-chain bridges and Layer-2 rollups.  
-🌱 Always learning, always shipping.
+🔧 Proficient in **Rust**, **Solidity**, and the **Anchor** framework for seamless dApp deployment.  
+📦 Expert in writing gas-efficient, upgradeable contracts using proxy patterns.  
+🧩 I've built DeFi protocols, NFTs, and DAOs, integrating full-stack smart contract ecosystems.  
+🌐 Deep knowledge of Solana’s high-throughput Sealevel runtime and EVM bytecode optimization.  
+🛡️ Security-first mindset: audits, fuzzing, and static analysis are part of my workflow.  
+🔍 Extensive experience with SPL/ERC standards (ERC-20, ERC-721, ERC-1155).  
+🎯 Delivered production-grade dApps that scale and perform under load.  
+🛠️ Passionate about cross-chain bridges, Layer‑2 rollups, and interoperability.  
+🌱 Lifelong learner—continually exploring emerging blockchain paradigms.
 
 ---
 
