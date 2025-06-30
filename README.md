@@ -20,13 +20,7 @@
 ✨ Cool experience in Fullstack development.
 
 <h3 align="center">🛠️ Tech Stack</h3>
-<p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=rust,solidity,web3js,hardhat,foundry&theme=dark&perline=7"
-    alt="Non‑crypto Tech Stack Icons"
-    width="400"
-  />
-</p>
+
 
 <p align="center" style="margin-top: 10px;">
   <img
