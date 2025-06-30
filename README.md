@@ -23,19 +23,7 @@
 
 
 <p align="center" style="margin-top: 10px;">
-  <img
-    src="https://raw.githubusercontent.com/ErikThiart/cryptocurrency-icons/master/128/color/solana.png"
-    alt="Solana"
-    width="48"
-    height="48"
-    style="vertical-align: middle;"
-  />
-  &nbsp;
-  <img
-    src="https://raw.githubusercontent.com/ErikThiart/cryptocurrency-icons/master/128/color/ethereum.png"
-    alt="Ethereum"
-    width="48"
-    height="48"
-    style="vertical-align: middle;"
-  />
+<img src="assets/crypto-icons/solana.png" alt="Solana" width="48" height="48" style="vertical-align: middle;" />
+<img src="assets/crypto-icons/ethereum.png" alt="Ethereum" width="48" height="48" style="vertical-align: middle;" />
+
 </p>
