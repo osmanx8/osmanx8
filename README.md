@@ -19,9 +19,8 @@
 🌐 Deep knowledge of Solana’s high-throughput Sealevel runtime and EVM bytecode optimization.  
 ✨ Cool experience in Fullstack development.
 
-<h3>🛠️ Tech Stack</h3>
+<h3 align="center">🛠️ Tech Stack</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,solidity,anchor,solana,ethereum,web3js,hardhat,foundry" />
+  <img src="https://skills.syvixor.com/api/icons?i=rust,solidity,solana,ethereum,web3js,hardhat,foundry&theme=dark&perline=4" alt="Tech Stack Icons" />
 </p>
-
 
