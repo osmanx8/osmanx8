@@ -29,9 +29,22 @@
   />
 </p>
 
-<p align="center">
-  <!-- Official coin icons from the cryptocurrency-icons pack -->
-  <img src="https://raw.githubusercontent.com/spothq/cryptocurrency-icons/master/128/color/solana.png" alt="Solana" width="48" height="48" />&nbsp;
-  <img src="https://raw.githubusercontent.com/spothq/cryptocurrency-icons/master/128/color/ethereum.png" alt="Ethereum" width="48" height="48" />
+<p align="center" style="margin-top: 10px;">
+  <!-- Updated Solana icon URL to a more reliable source -->
+  <img
+    src="https://cryptologos.cc/logos/solana-sol-logo.png?v=023"
+    alt="Solana"
+    width="48"
+    height="48"
+    style="vertical-align: middle;"
+    onerror="this.onerror=null; this.src='https://raw.githubusercontent.com/spothq/cryptocurrency-icons/master/128/color/solana.png';"
+  />
+  &nbsp;
+  <img
+    src="https://cryptologos.cc/logos/ethereum-eth-logo.png?v=023"
+    alt="Ethereum"
+    width="48"
+    height="48"
+    style="vertical-align: middle;"
+  />
 </p>
-
