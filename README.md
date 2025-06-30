@@ -21,9 +21,9 @@
 
 <h3 align="center">🛠️ Tech Stack</h3>
 
-
 <p align="center" style="margin-top: 10px;">
-<img src="assets/crypto-icons/solana.png" alt="Solana" width="48" height="48" style="vertical-align: middle;" />
-<img src="assets/crypto-icons/ethereum.png" alt="Ethereum" width="48" height="48" style="vertical-align: middle;" />
-
+  <img src="https://upload.wikimedia.org/wikipedia/en/6/6c/Solana_logo.png" alt="Solana" width="48" height="48" style="vertical-align: middle;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Ethereum_logo_2014.png" alt="Ethereum" width="48" height="48" style="vertical-align: middle;" />
+  <img src="https://nextjs.org/static/favicon/favicon.ico" alt="Next.js" width="48" height="48" style="vertical-align: middle;" />
+  <img src="https://nodejs.org/static/images/logo.svg" alt="Node.js" width="48" height="48" style="vertical-align: middle;" />
 </p>
