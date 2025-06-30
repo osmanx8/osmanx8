@@ -20,15 +20,8 @@
 ✨ Cool experience in Fullstack development.
 
 <h3>🛠️ Tech Stack</h3>
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" title="Rust" alt="Rust" width="56" height="56" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" width="56" height="56" />&nbsp;
-  <img src="https://raw.githubusercontent.com/solana-foundation/anchor/master/assets/anchor-logo.svg" title="Anchor" alt="Anchor" width="56" height="56" />&nbsp;
-  <img src="https://raw.githubusercontent.com/spothq/cryptocurrency-icons/master/128/color/solana.png" title="Solana" alt="Solana" width="56" height="56" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ethereum/ethereum-original.svg" title="Ethereum" alt="Ethereum" width="56" height="56" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/web3js/web3js-original.svg" title="Web3.js" alt="Web3.js" width="56" height="56" />&nbsp;
-  <img src="https://raw.githubusercontent.com/NomicFoundation/hardhat/main/assets/icon.svg" title="Hardhat" alt="Hardhat" width="56" height="56" />&nbsp;
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/foundry.png" title="Foundry" alt="Foundry" width="56" height="56" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=rust,solidity,anchor,solana,ethereum,web3js,hardhat,foundry" />
 </p>
 
 
