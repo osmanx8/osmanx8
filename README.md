@@ -1,19 +1,18 @@
-<!-- HEADER IMAGE -->
-<p align="center">
-  <img src="assets/header-github.png" width="100%" alt="Gradient Header"/>
-</p>
-
-<!-- BACKGROUND WRAPPER -->
+<!-- Background Layer -->
 <div style="position: relative; z-index: 0;">
 
-  <!-- BACKGROUND IMAGE (SOLANA LOGO WITH OPACITY) -->
-  <img src="assets/solana.png" alt="Solana Background" width="100%" 
+  <!-- Fixed Background Image -->
+  <img src="assets/solana.png" alt="Background" width="100%" 
        style="position: absolute; top: 0; left: 0; opacity: 0.05; z-index: -1;" />
 
-  <!-- FOREGROUND CONTENT -->
+  <!-- Foreground Content Layer -->
+  <p align="center">
+    <img src="assets/header-github.png" width="100%" alt="Header Image" />
+  </p>
+
   <h2 align="center">⚡ Smart Contract Wizard | Solana ✦ EVM ✦ Rust ✦ Solidity</h2>
 
-  ---
+  <hr />
 
   ### 🧠 About Me
 
@@ -28,7 +27,7 @@
   🛠️ Passionate about cross-chain bridges, Layer‑2 rollups, and interoperability.  
   🌱 Lifelong learner—continually exploring emerging blockchain paradigms.
 
-  ---
+  <hr />
 
   ### 🛠️ Tech Stack
 
