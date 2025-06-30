@@ -19,7 +19,6 @@
 🌐 Deep knowledge of Solana’s high-throughput Sealevel runtime and EVM bytecode optimization.  
 ✨ Cool experience in Fullstack development.
 
-
 <h3 align="center">🛠️ Tech Stack</h3>
 <p align="center">
   <img
@@ -31,7 +30,7 @@
 
 <p align="center" style="margin-top: 10px;">
   <img
-    src="https://cdn.jsdelivr.net/gh/spothq/cryptocurrency-icons@master/128/color/solana.png"
+    src="https://raw.githubusercontent.com/ErikThiart/cryptocurrency-icons/master/128/color/solana.png"
     alt="Solana"
     width="48"
     height="48"
@@ -39,13 +38,10 @@
   />
   &nbsp;
   <img
-    src="https://cdn.jsdelivr.net/gh/spothq/cryptocurrency-icons@master/128/color/ethereum.png"
+    src="https://raw.githubusercontent.com/ErikThiart/cryptocurrency-icons/master/128/color/ethereum.png"
     alt="Ethereum"
     width="48"
     height="48"
     style="vertical-align: middle;"
   />
 </p>
-
-
-
