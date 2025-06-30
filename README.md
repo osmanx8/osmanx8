@@ -21,6 +21,10 @@
 
 <h3 align="center">🛠️ Tech Stack</h3>
 <p align="center">
-  <img src="https://skills.syvixor.com/api/icons?i=rust,solidity,solana,ethereum,web3js,hardhat,foundry&theme=dark&perline=4" alt="Tech Stack Icons" />
+  <img
+    src="https://skillicons.dev/icons?i=rust,solidity,solana,ethereum,web3js,hardhat,foundry&theme=dark&perline=7"
+    alt="Tech Stack Icons"
+    width="400"
+  />
 </p>
 
