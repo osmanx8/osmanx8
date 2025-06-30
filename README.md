@@ -31,7 +31,7 @@
 
 <p align="center" style="margin-top: 10px;">
   <img
-    src="https://raw.githubusercontent.com/spothq/cryptocurrency-icons/master/128/color/solana.png"
+    src="https://cdn.jsdelivr.net/gh/spothq/cryptocurrency-icons@master/128/color/solana.png"
     alt="Solana"
     width="48"
     height="48"
@@ -39,11 +39,13 @@
   />
   &nbsp;
   <img
-    src="https://raw.githubusercontent.com/spothq/cryptocurrency-icons/master/128/color/ethereum.png"
+    src="https://cdn.jsdelivr.net/gh/spothq/cryptocurrency-icons@master/128/color/ethereum.png"
     alt="Ethereum"
     width="48"
     height="48"
     style="vertical-align: middle;"
   />
 </p>
+
+
 
