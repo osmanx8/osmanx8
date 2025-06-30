@@ -21,16 +21,15 @@
 
 ---
 
-<!-- TECH STACK WITH ENHANCED ICONS -->
 <h3>🛠️ Tech Stack</h3>
-
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" title="Rust" alt="Rust" width="48" height="48" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" width="48" height="48" /> &nbsp;
-  <img src="https://avatars.githubusercontent.com/u/85841291?s=200&v=4" title="Anchor" alt="Anchor Framework" width="48" height="48" /> &nbsp;
-  <img src="https://cryptologos.cc/logos/solana-sol-logo.png?v=029" title="Solana" alt="Solana" width="48" height="48" /> &nbsp;
-  <img src="https://cryptologos.cc/logos/ethereum-eth-logo.png?v=029" title="Ethereum" alt="Ethereum" width="48" height="48" /> &nbsp;
-  <img src="https://seeklogo.com/images/W/web3js-logo-62DEE79A4D-seeklogo.com.png" title="Web3.js" alt="Web3.js" width="48" height="48" /> &nbsp;
-  <img src="https://hardhat.org/hardhat-logo.svg" title="Hardhat" alt="Hardhat" width="48" height="48" /> &nbsp;
-  <img src="https://avatars.githubusercontent.com/u/104418113?s=200&v=4" title="Foundry" alt="Foundry" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" title="Rust" alt="Rust" width="56" height="56" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" width="56" height="56" />&nbsp;
+  <img src="https://raw.githubusercontent.com/solana-foundation/anchor/master/assets/anchor-logo.svg" title="Anchor" alt="Anchor" width="56" height="56" />&nbsp;
+  <img src="https://raw.githubusercontent.com/spothq/cryptocurrency-icons/master/128/color/solana.png" title="Solana" alt="Solana" width="56" height="56" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ethereum/ethereum-original.svg" title="Ethereum" alt="Ethereum" width="56" height="56" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/web3js/web3js-original.svg" title="Web3.js" alt="Web3.js" width="56" height="56" />&nbsp;
+  <img src="https://raw.githubusercontent.com/nomiclabs/hardhat/main/assets/icon.svg" title="Hardhat" alt="Hardhat" width="56" height="56" />&nbsp;
+  <img src="https://raw.githubusercontent.com/foundry-rs/foundry/master/assets/foundry-logo-dark.svg" title="Foundry" alt="Foundry" width="56" height="56" />
 </p>
+
