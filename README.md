@@ -2,6 +2,8 @@
 
 ---
 
+<div align="center">
+
 ## ✩ About Me ✩
 
 🚀 I architect secure and scalable smart contracts across **Solana** and **EVM** blockchains.  
@@ -10,11 +12,12 @@
 🌐 Deep knowledge of Solana’s high-throughput Sealevel runtime and EVM bytecode optimization.  
 ✨ Cool experience in Fullstack development.
 
+</div>
 ---
 
 ## 🛠️ Tech Stack
 
-| Blockchain | Languages & Smart Contracts | Frameworks & Fullstack | AI & Toolkits |
+| Blockchain | Web3 & Smart Contracts | Frameworks & Fullstack | AI & Toolkits |
 |------------|-----------------------------|-----------------------|---------------|
 ## Tech Stack
 
