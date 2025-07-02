@@ -13,12 +13,6 @@
 ✨ Cool experience in Fullstack development.
 
 </div>
----
-
-## 🛠️ Tech Stack
-
-| Blockchain | Web3 & Smart Contracts | Frameworks & Fullstack | AI & Toolkits |
-|------------|-----------------------------|-----------------------|---------------|
 ## Tech Stack
 
 <table align="center">
