@@ -51,5 +51,5 @@
 ---
 
 **Contact:**  
-Feel free to reach out for collaboration or questions!
+<p style="color: red;">Feel free to reach out for collaboration or questions!</p>
 
