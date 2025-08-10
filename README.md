@@ -7,7 +7,7 @@
 ## >>>>>>>>>>>>>>>>>> ✩ About Me ✩ <<<<<<<<<<<<<<<<<<
 
 🚀 I architect secure and scalable smart contracts across **Solana** and **EVM** blockchains.  
-🔧 Proficient in **Rust**, **Solidity**, and the **Anchor** framework for seamless dApp deployment.  
+🔧 Proficient in **Rust**, **Solidity**, and the **Anchor** framework for seamless DAPP.  
 🧩 I've built Gamefi, DeFi protocols, NFTs, and DAOs, integrating full-stack smart contract ecosystems.  
 🌐 Deep knowledge of Solana’s high-throughput Sealevel runtime and EVM bytecode optimization.  
 ✨ Cool experience in Fullstack development.
