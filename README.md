@@ -43,8 +43,11 @@
   </tr>
 </table>
 
+<div align="center">
+ >>>>>>>>>>>>>>>>>>>>>>>>>>>> ✩ BOTS ✩ <<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<img width="1598" height="661" alt="bots" src="https://github.com/user-attachments/assets/7bb4689e-b549-4a6e-aa0b-257ce6406191" />
+</div>
 
----
 
 *This README showcases expertise across blockchain ecosystems, smart contract languages, fullstack frameworks, and AI toolkits.*
 
